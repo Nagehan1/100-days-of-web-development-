@@ -1,0 +1,12 @@
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: rgb(106, 53, 113);
+}
+a{
+    color:rgb(15,115,105);
+    text-decoration:solid ;
+}
+a :hover {
+    text-decoration: underline;
+}
