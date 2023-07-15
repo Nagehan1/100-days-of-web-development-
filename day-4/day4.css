@@ -10,3 +10,6 @@ a{
 a :hover {
     text-decoration: underline;
 }
+#todays-chalange{
+    color:blue;
+}
