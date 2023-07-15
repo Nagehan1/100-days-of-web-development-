@@ -12,4 +12,6 @@ a :hover {
 }
 #todays-chalange{
     color:blue;
+    font-weight: 300;
+    font-size: larger;
 }
