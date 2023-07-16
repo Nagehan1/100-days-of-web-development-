@@ -1,6 +1,5 @@
 p {
     font-family: 'Lumanosimo', 'Lucida Sans Unicode', 'Lucida Grande';
-    text-align: center;
     color: rgb(106, 53, 113);
 }
 a{
@@ -19,4 +18,9 @@ img{
     width: 200px;
     height: 200px;
     border-radius: 100px;
+}
+body{
+    text-align: center;
+    background-color: rgb(228, 214, 228);
+    margin:50px;
 }
