@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: rgb(228, 214, 228);
+    margin:50px;
+}
+h1{
+    font-family: 'Lumanosimo';
+    color: rgb(225, 131, 237)
+}
+p{
+    font-family: 'Lumanosimo', 'Lucida Sans Unicode', 'Lucida Grande';
+    color: rgb(106, 53, 113);
+}
