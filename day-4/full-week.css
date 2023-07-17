@@ -11,3 +11,6 @@ p{
     font-family: 'Lumanosimo', 'Lucida Sans Unicode', 'Lucida Grande';
     color: rgb(106, 53, 113);
 }
+a:hover{
+    text-decoration: underline;
+}
