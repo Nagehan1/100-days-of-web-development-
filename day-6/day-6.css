@@ -1,5 +1,6 @@
 li {
 list-style: square ;
+color: chocolate;
 }
 body {
     background-color: rgb(233, 215, 207);
