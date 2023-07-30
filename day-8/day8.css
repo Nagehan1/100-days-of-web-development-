@@ -18,4 +18,23 @@ img{
     width: 200px;
     height: 200px;
     border-radius: 100px;
+    border: 5px solid black;
+    margin-top: -134px;
+    text-align: center;
+}
+h1{
+    font-size: 30px;
+    color: rgb(31,25,25);
+
+}
+span{
+    color: rgb(216, 212, 125);
+}
+a{
+    color:red ;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+}
+footer{
+    text-align: center;
 }
