@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(204, 150, 188);
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+font-size: 52px;
+color: blueviolet;
+}
+
+header{
+    text-align: center;
+    padding: 32px;
+}
+
+header img {
+    width: 300px;
+
+
+}
