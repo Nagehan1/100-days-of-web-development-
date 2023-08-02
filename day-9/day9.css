@@ -50,3 +50,11 @@ a{
  a:hover, a:active{
     background-color: rgb(238, 226, 54);
  }
+ footer{
+    text-align: center;
+
+ }
+ footer p{
+    color:rgb(93, 82, 104);
+    margin-top:30px;
+ }
