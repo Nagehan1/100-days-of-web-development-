@@ -58,3 +58,9 @@ a{
     color:rgb(93, 82, 104);
     margin-top:30px;
  }
+ footer a{
+    padding: auto;
+    border-radius: 8px;
+    background-color: aliceblue;
+    color:brown
+ }
