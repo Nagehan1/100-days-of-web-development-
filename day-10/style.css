@@ -5,6 +5,7 @@
 }
 p{
     background-color: rgb(226, 43, 162);
+
     margin: 10px;
     width: 250px;
 }
@@ -15,6 +16,6 @@ ul{
     padding: 0;
 }
 li{
-    background-color: rgb(223, 39, 149);
+    background-color: rgb(195, 129, 169);
     width: 100px;
 }
