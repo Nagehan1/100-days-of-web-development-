@@ -14,6 +14,9 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 15px 60px;
+    position: absolute;
+    width: 100%;
+    box-sizing: border-box;
   }
   
   #page-logo a {
@@ -32,4 +35,16 @@ body {
   
   header li {
     margin-left: 20px;
+  }
+  header a{
+    color:rgb(201, 216, 64);
+    text-align: none;
+    font-size: 20px;
+    padding: 12px;
+    text-shadow: 1px 1px 1px rgb(0,0,0,0.2,);
+
+  }
+  header a:hover{
+    color:blue;
+    background-color: rgb(220, 101, 194);
   }
