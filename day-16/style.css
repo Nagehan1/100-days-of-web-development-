@@ -49,7 +49,8 @@ margin-bottom: 5px;
   }
 
   #destinations{
-    
+    display:flex;
+
   }
   .destination img {
     height: 200px;}
