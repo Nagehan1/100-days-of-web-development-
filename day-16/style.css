@@ -52,9 +52,11 @@ margin-bottom: 5px;
     display:flex;
     width: 100px;
     margin:auto;
-    margin: bottom 90px; ;
+    margin-bottom: 40px; ;
     
 
   }
   .destination img {
-    height: 200px;}
+    height: 200px;
+   width: 100%;
+  }
