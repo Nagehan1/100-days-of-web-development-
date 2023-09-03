@@ -47,12 +47,20 @@ margin-bottom: 5px;
     background-color: rgb(85, 90, 49);
     
   }
+ #highlights h2{
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 40px;
+  color:rgb(59 64 64 );
+margin: 24px o;
 
+ }
   #destinations{
     display:flex;
     width: 90%;
     margin:auto;
     margin-bottom: 40px; 
+    justify-content: center;
 
   }
 
