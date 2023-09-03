@@ -29,7 +29,7 @@ color: white;
 text-transform: uppercase;
 font-size: 24px;
 font-weight: 300;
-margin-bottom: 5px;
+margin-bottom: 32px;
     }
 
   #hero-content a {
@@ -46,6 +46,10 @@ margin-bottom: 5px;
   #hero-content a:hover{
     background-color: rgb(85, 90, 49);
     
+  }
+  #highlights {
+    padding: 4px;
+    background: linear-gradient(0deg, rgb(71, 23, 45), rgb(126, 169, 166));
   }
  #highlights h2{
   text-transform: uppercase;
