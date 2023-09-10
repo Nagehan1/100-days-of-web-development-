@@ -50,4 +50,11 @@ body {
   }
 
   footer {
-    background-color: linear-gradient(70deg, rgb(25, 24, 24) rgb(25,29,29));}
+    background-color: linear-gradient(70deg, rgb(25, 24, 24) rgb(25,29,29));
+  }
+
+  footer li{
+    width: 80%;
+    height: 80%;
+  }
+  
