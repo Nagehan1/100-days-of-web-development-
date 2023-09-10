@@ -48,3 +48,6 @@ body {
     color:blue;
     background-color: rgb(220, 101, 194);
   }
+
+  footer {
+    background-color: linear-gradient(70deg, rgb(25, 24, 24) rgb(25,29,29));}
