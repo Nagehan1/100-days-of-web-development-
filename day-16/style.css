@@ -21,7 +21,7 @@
     text-transform: uppercase;
     font-size: 50px;
     font-family: "railroad";
-    margin: 0px;
+    margin: 0;
 }
 
 #hero-content p {
@@ -50,16 +50,14 @@ margin-bottom: 32px;
   #highlights {
     padding: 24px;
     background: linear-gradient(0deg, rgb(123, 71, 95), rgb(126, 169, 166));
-    margin :0 auto;
-    position: relative;
-    top: 200px;
+    
   }
  #highlights h2{
   text-transform: uppercase;
   text-align: center;
   font-size: 40px;
   color:rgb(59 64 64 );
-margin: 24px o;
+  margin: 24px 0;
 
  }
   #destinations{
@@ -77,13 +75,14 @@ margin: 24px o;
  .destination{
   margin: 0 20px;
   text-transform: uppercase;
+  width: 25%;
  }
 
  .destination p{
   text-align: center;
   font-size: 24px;
   color: rgb(126, 43, 105);
-margin :20px 0;
+  margin :20px 0;
 }
 
   .destination img {
@@ -94,5 +93,6 @@ margin :20px 0;
    object-fit: cover;
   }
   .destination strong {
-    color:rgb(28, 42, 42);}
+    color:rgb(28, 42, 42);
+  }
 
