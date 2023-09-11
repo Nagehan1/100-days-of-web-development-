@@ -56,11 +56,13 @@ body {
 footer ul{
   display: flex;
   justify-content: center;
+  padding: 40px;
 }
 
   footer li{
     width: 80px;
     height: 80px;
+    margin: 0 50px;
   }
 
   footer img{
