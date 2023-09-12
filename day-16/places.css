@@ -2,8 +2,18 @@ body{
     background: linear-gradient(30deg,rgb(201, 129, 178), rgb(128, 184, 203));
     color :rgb(201, 129, 178)
 }
+#page-logo a{
+color: rgb(208, 175, 30);
+}
 header{
     position: static;
+}
+header a{
+color:rgb(152, 128, 20);
+}
+header nav a:hover{
+    background-color: aqua;
+    color:rgb(59,59,59)
 }
 main ul{
     width: 1200px;

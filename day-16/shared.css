@@ -46,7 +46,7 @@ body {
     text-shadow: 1px 1px 1px rgb(0,0,0,0.2,);
 
   }
-  header a:hover{
+  header nav a:hover{
     color:blue;
     background-color: rgb(220, 101, 194);
   }
